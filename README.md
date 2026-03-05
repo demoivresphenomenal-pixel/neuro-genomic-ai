@@ -1,0 +1,2 @@
+# neuro-genomic-ai
+neuro-genomic-ai/ │ ├── data/ │   ├── raw │   └── processed │ ├── notebooks/ │   └── signal_analysis.ipynb │ ├── src/ │   ├── preprocessing │   ├── signal_separation │   ├── feature_extraction │   └── scoring_model │ ├── interface/ │   └── dashboard │ ├── docs/ │   └── proposal │ ├── requirements.txt └── README.md
